@@ -1,2 +1,2 @@
-export const HWAPI = 'http://192.168.0.13:8080'
+export const HWAPI = 'https://hwtserver.herokuapp.com/'
 export const HWAPIKEY = 'ihateallofyoumfs'
