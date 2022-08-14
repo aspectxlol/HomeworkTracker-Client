@@ -1,0 +1,18 @@
+body {
+    /* background-color: #282c34; */
+    min-height: 100vh;
+    display: grid;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    /* color: white; */
+}
+
+.homeworkClass {
+    margin: 10px
+}
+
+.form {
+    margin: 0 10px 0 10px;
+}
